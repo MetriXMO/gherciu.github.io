@@ -1,0 +1,19 @@
+{
+  "name": "graphiql-storm-page",
+  "version": "1.0.0",
+  "description": "A graphql web ide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "NODE_ENV=production ./node_modules/.bin/webpack --progress"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Gherciu Gheorghe",
+  "license": "ISC",
+  "dependencies": {
+    "graphiql-storm": "^1.0.0",
+    "webpack": "^4.29.3"
+  }
+}

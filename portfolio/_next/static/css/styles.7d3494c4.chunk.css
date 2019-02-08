@@ -34,7 +34,6 @@ body {
       font-weight: 500;
       margin-bottom: 10px; }
     body .global-wrap .top-bg {
-      background-image: url("/static/img/topBg.png");
       background-position: bottom;
       background-repeat: no-repeat;
       background-size: 2000px auto;

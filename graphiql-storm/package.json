@@ -13,7 +13,10 @@
   "author": "Gherciu Gheorghe",
   "license": "ISC",
   "dependencies": {
-    "graphiql-storm": "^1.0.0",
+    "graphiql-storm": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3",
     "webpack": "^4.29.3"
   }
 }

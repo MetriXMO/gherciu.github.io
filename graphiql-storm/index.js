@@ -1,3 +1,3 @@
-import renderGraphiQlStorm from 'graphiql-storm'
+import graphiQlStorm from 'graphiql-storm'
 
-renderGraphiQlStorm([{route:'https://countries.trevorblades.com/'}])
+graphiQlStorm([{route:'https://countries.trevorblades.com/'}])

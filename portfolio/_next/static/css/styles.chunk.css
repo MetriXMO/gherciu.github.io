@@ -47,16 +47,16 @@ body {
     body .global-wrap .button-link {
       background: #fff;
       border-radius: 28px;
-      color: #8ABCF8;
+      color: #8abcf8;
       font-weight: 600;
-      font-size: .9rem;
+      font-size: 0.9rem;
       padding: 13px 20px;
       letter-spacing: 2px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
       text-transform: uppercase;
-      transition: transform .1s ease-in-out,-webkit-transform .1s ease-in-out;
+      transition: transform 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
       filter: drop-shadow(0 20px 10px rgba(0, 0, 0, 0.3)); }
       body .global-wrap .button-link.-thick-and-bordered {
         color: #4b60c4;
@@ -81,7 +81,6 @@ body {
     body .global-wrap .card {
       background: #fff;
       border-radius: 25px;
-      min-height: 250px;
       width: 100%;
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12), 9px 10px 45px rgba(0, 0, 0, 0.24);
       overflow: hidden;
@@ -98,7 +97,7 @@ body {
         display: flex;
         width: 100%;
         align-items: center;
-        border-top: 1px solid #C3CBEF;
+        border-top: 1px solid #c3cbef;
         padding: 0px 20px;
         box-sizing: border-box;
         position: relative; }

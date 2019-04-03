@@ -37,7 +37,7 @@ body {
       background-repeat: no-repeat;
       background-size: 2000px auto;
       padding-bottom: 140px;
-      margin-bottom: -150px;
+      margin-bottom: -100px;
       z-index: 1; }
     body .global-wrap .content-wrapper {
       max-width: 960px;
@@ -119,6 +119,10 @@ body {
 @media (max-width: 864px) {
   body .global-wrap .top-bg {
     padding-bottom: 10px; } }
+
+@media (max-width: 570px) {
+  body .global-wrap .top-bg {
+    background-size: cover; } }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

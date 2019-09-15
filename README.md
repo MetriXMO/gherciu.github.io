@@ -12,7 +12,7 @@ My portfolio :)
 
 ## Author
 
-**@Gherciu/gherciu.github.io** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/gherciu.github.io/blob/master/LICENSE) License.<br>
+**[@Gherciu/gherciu.github.io](https://github.com/Gherciu/gherciu.github.io)** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/gherciu.github.io/blob/master/LICENSE) License.<br>
 Authored and maintained by GHERCIU with help from contributors ([list](https://github.com/Gherciu/gherciu.github.io/contributors)).
 
 #### If you like this repository star⭐ and watch👀 on [GitHub](https://github.com/Gherciu/gherciu.github.io)

@@ -8595,7 +8595,7 @@ var Home = function Home() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    id: "open-source",
+    id: "works",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 38

@@ -127,5 +127,8 @@ body {
   body .global-wrap .top-bg {
     background-size: cover; } }
 
+.ace_scrollbar {
+  display: none !important; }
+
 
 /*# sourceMappingURL=styles.chunk.css.map*/

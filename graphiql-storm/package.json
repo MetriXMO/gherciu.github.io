@@ -13,7 +13,7 @@
   "author": "Gherciu Gheorghe",
   "license": "ISC",
   "dependencies": {
-    "graphiql-storm": "^1.2.0"
+    "graphiql-storm": "^1.2.3"
   },
   "devDependencies": {
     "cross-env": "^5.2.1",
